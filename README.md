@@ -1,8 +1,6 @@
-#  Copyright (c) 2024, Andrei Rusanescu <andreirusanescu154gmail.com>
+#  Copyright (c) 2024, Andrei Rusanescu
 
-# Memory Management System
-
-# Overview
+# Virtual memory allocator
 
 This project implements a memory management system that provides a simulated
 heap with support for dynamic memory allocation, deallocation, and
